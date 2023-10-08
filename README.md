@@ -1,2 +1,1 @@
-# AbortController
-AbortController and AbortSignal usage
+# AbortController and AbortSignal usage
